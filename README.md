@@ -1,7 +1,7 @@
 parCSSer
 ========
 
-# Parser output [draft]
+## Parser output [draft]
 
 ```ruby
 {
